@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luke Roberts](https://github.com/mewtlu)
+- Place: Manchester, Lancashire, United Kingdom
+- Bio: Self taught game and software developer currently living and working in Manchester! https://mewt.eu
+- GitHub: [Luke Roberts](https://github.com/mewtlu)
